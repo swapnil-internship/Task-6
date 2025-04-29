@@ -67,15 +67,6 @@ ORDER BY
 - ✅ Output Table: Monthly revenue and order volume summary
 - ✅ README Documentation: `README.md` (this file)
 
----
-
-## 📊 Sample Output (Illustrative)
-
-| order_year | order_month | total_revenue | order_volume |
-|------------|--------------|----------------|---------------|
-| 2023       | 1            | 12,340.50      | 120           |
-| 2023       | 2            | 14,230.75      | 132           |
-| 2023       | 3            | 10,980.00      | 98            |
 
 ---
 
